@@ -14,9 +14,16 @@ yumeTwinkle アイコンテーマ for Anemone
 キラキララメが入った画像を用いて、ゆめかわいい･･･ではないものの、可愛いアイコンテーマを目指しています。
 
 
-## インストール方法（準備中）
+## インストール方法
 
-まだインストール用の Tweak を用意していませんので、用意した後に紹介します。
+1. レポジトリを追加します → [yuta/Repo. (tweak.y59.jp)](cydia://url/https://cydia.saurik.com/api/share#?source=https://tweak.y59.jp/)
+2. レポジトリを追加後、`yume` で検索し、`yumeTwinkle (Anemone)` をインストールします
+3. Anemone アプリ内の“Miscellaneous”にテーマがあると思うので、テーマを設定してお楽しみください
+
+
+## 注意
+
+iPhone 6s / iPad mini 2 (手持ちデバイス)でのみ動作検証しています。
 
 
 ## Copyright
