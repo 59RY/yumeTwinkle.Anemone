@@ -1,9 +1,12 @@
 Package: jp.y59.yumeTwinkle.Anemone
 Name: yumeTwinkle (Anemone)
 Architecture: iphoneos-arm
+Priority: optional
 Description: Lilely Yumekawaii Theme for Anemone.
+ キラキラしたゆめかわいいを目指すアイコンテーマ！
+ * Anemone 用のテーマです
 Maintainer: Yamada Yuta <yumeTwinkle@alias.y59.jp>
 Author: Yamada Yuta <yumeTwinkle@alias.y59.jp>
 Depends: com.anemonetheming.anemone
 Section: Themes
-Version: 0.2.1
+Version: 0.3
